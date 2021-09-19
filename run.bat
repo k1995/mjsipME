@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\java\Java_ME_platform_SDK_3.4\bin\emulator" -w -Xjam -Xdevice:JavaMEPhone1 -Xdescriptor:bin\mjuaME.jad
